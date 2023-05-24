@@ -1,1 +1,7 @@
+@use "partials/header.scss";
+@use "partials/cards.scss";
 @import '~bootstrap/scss/bootstrap';
+
+.wrapper {
+  background-color: black;
+}
